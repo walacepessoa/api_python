@@ -1,4 +1,5 @@
 API Livros com Flask + Waitress
+-------------------------------
 
 📁 Estrutura de arquivos do projeto
 projeto/
@@ -40,3 +41,9 @@ Em produção, não use app.run().
 
 Waitress é estável e recomendado para Windows.
 Se quiser publicar a API na internet, pode usar ferramentas como ngrok ou serviços de hospedagem (Render, Heroku, etc.).
+
+Criado por:
+-----------
+Walace Pessôa
+Rio de Janeiro, Brasil
+V01.01.00
