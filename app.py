@@ -46,3 +46,7 @@ def deletar_livro(id):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+# To run the application, save this code in a file named app.py and run it using the command:
+# python app.py
+# You can then access the API at http://
