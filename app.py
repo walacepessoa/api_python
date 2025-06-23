@@ -20,7 +20,7 @@ livros = [
         "autor": "Machado de Assis",
     }
 ]
-app.route('/livros', methods=['GET'])
+@app.route('/livros', methods=['GET'])
 
 
 def get_livros():
