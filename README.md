@@ -9,6 +9,8 @@ API REST para gerenciamento de livros, desenvolvida em Python usando o microfram
 <br/>
 Python 3<br/>
 Flask (app.py)<br/>
+SQLite<br/>
+SQLAlchemy (ORM)<br/>
 Waitress<br/>
 JSON<br/>
 Git<br/>
@@ -49,6 +51,7 @@ Em produção, não use app.run().<br/>
 Waitress é estável e recomendado para Windows.<br/>
 Se quiser publicar a API na internet, pode usar ferramentas como ngrok ou serviços de hospedagem (Render, Heroku, etc.).<br/>
 </p>
+
 ### Criar o banco e tabela 
 <p>
 ✅ 1. Instale o SQLite (opcional)<br/>
