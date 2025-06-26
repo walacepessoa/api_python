@@ -70,8 +70,7 @@ projeto/<br/>
 └── README.txt           ← Instruções<br/>
 </p>
 
-Criado por:
------------
-Walace Pessôa
-Rio de Janeiro, Brasil
+### Criado por:<br/>
+Walace Pessôa<br/>
+Rio de Janeiro, Brasil<br/>
 V01.01.00
