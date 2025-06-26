@@ -1,6 +1,19 @@
 API Livros com Flask + Waitress
 -------------------------------
-API REST desenvolvida em Python que retorna livros
+<p>
+📌 Projeto: API Livros (app.py)<br/>
+Descrição:<br/>
+API REST para gerenciamento de livros, desenvolvida em Python usando o microframework Flask. O projeto é executado pelo arquivo principal app.py e utiliza o servidor Waitress para produção, garantindo estabilidade e performance.<br/>
+<br/>
+🚀 Tecnologias utilizadas<br/>
+<br/>
+Python 3<br/>
+Flask (app.py)<br/>
+Waitress<br/>
+JSON<br/>
+Git<br/>
+VS Code<br/>
+</p>
 <p>
 ✅ 1. Pré-requisitos<br/>
 Python 3.x instalado<br/>
